@@ -1,0 +1,3 @@
+# Lista: mutable, ordenada,indexada, duplicar elementos
+#Tupla: No es mutable, ordenada, indexada, duplicar
+# Conunto: Mutable, no es ordenada, no es indexada y no se pueden duplicar elementos. 
