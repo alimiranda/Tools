@@ -22,7 +22,8 @@ import charts
    print(result)'''
 
 def run():
-   data = readcsv.read_csv('/Users/alinasofiamirandamartinez/Documents/1_Datos/world_population.csv')
+   data = readcsv.read_csv('world_population.csv')
+   print(data)
    country = input('Type Country => ')
    
    result = utils.population_by_country(data, country)
